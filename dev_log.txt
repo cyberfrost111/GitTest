@@ -1,4 +1,4 @@
 dev log
 
 #log 1
-#record 1. branch dev
+#record 1. branch master
